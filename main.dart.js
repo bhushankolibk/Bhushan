@@ -66892,10 +66892,10 @@ s=k.ax.a===B.y?B.eB:B.Fy
 r=A.ew(30)
 q=A.a([$.ajq()],t.sq)
 p=t.p
-o=A.cU(A.a([A.bq("Contact Us",l,B.wV,l),A.aE(l,$.ax.L()/100,l),A.dR(A.a([A.nq(B.li,l,l),A.aE(l,l,0.5*$.ax.L()/100),A.bq("+91 XXX-XXX-XXXX",l,B.bd,l)],p),B.D,B.A,B.B),A.aE(l,$.ax.L()/100,l),A.dR(A.a([A.nq(B.lg,l,l),A.aE(l,l,0.5*$.ax.L()/100),A.bq("bhushannikumbh2014@gmail.com",l,B.bd,l)],p),B.D,B.A,B.B),A.aE(l,$.ax.L()/100,l),A.dR(A.a([A.nq(B.lh,l,l),A.aE(l,l,0.5*$.ax.L()/100),A.bq("Nashik, Maharashtra",l,B.bd,l)],p),B.D,B.A,B.B)],p),B.an,B.A,B.B)
+o=A.cU(A.a([A.bq("Contact Us",l,B.wV,l),A.aE(l,$.ax.L()/100,l),A.dR(A.a([A.nq(B.li,l,l),A.aE(l,l,0.5*$.ax.L()/100),A.bq("+91 7776020236",l,B.bd,l)],p),B.D,B.A,B.B),A.aE(l,$.ax.L()/100,l),A.dR(A.a([A.nq(B.lg,l,l),A.aE(l,l,0.5*$.ax.L()/100),A.bq("innovatewith@bhushankoli.in",l,B.bd,l)],p),B.D,B.A,B.B),A.aE(l,$.ax.L()/100,l),A.dR(A.a([A.nq(B.lh,l,l),A.aE(l,l,0.5*$.ax.L()/100),A.bq("Mumbai, Maharashtra",l,B.bd,l)],p),B.D,B.A,B.B)],p),B.an,B.A,B.B)
 n=A.aE(l,l,2*$.ax.L()/100)
 j=A.b3(a,l,j).w
-j=A.dR(A.a([o,n,A.bT(l,A.cU(A.a([A.bq("Bhushan's Portfolio",l,B.wV,l),A.aE(l,$.ax.L()/100,l),A.bq("Thank you for visiting my personal portfolio website. Connect with me over socials.",B.fk,B.bd,l),A.aE(l,$.ax.L()/100,l),A.bq("Keep Rising \ud83d\ude80. Connect with me.",l,B.bd,l)],p),B.an,B.A,B.B),B.o,l,l,l,l,l,l,l,l,l,j.a.a*0.3)],p),B.an,B.eO,B.B)
+j=A.dR(A.a([o,n,A.bT(l,A.cU(A.a([A.bq("Bhushan's Portfolio",l,B.wV,l),A.aE(l,$.ax.L()/100,l),A.bq("Thank you for visiting my personal portfolio website. Connect with me over socials.",B.fk,B.bd,l),A.aE(l,$.ax.L()/100,l),A.bq("Turning Vision into Reality with Exceptional Apps \ud83d\ude80. Connect with me.",l,B.bd,l)],p),B.an,B.A,B.B),B.o,l,l,l,l,l,l,l,l,l,j.a.a*0.3)],p),B.an,B.eO,B.B)
 n=A.bT(l,l,B.o,A.a2(51,255,255,255),l,l,l,1,l,l,l,l,l)
 o=A.aE(l,2*$.ax.L()/100,l)
 m=$.anc()
@@ -66908,7 +66908,7 @@ A.Wi.prototype={
 $0(){return A.ht(A.dq(this.a.b.a,0,null))},
 $S:0}
 A.EU.prototype={
-I(a){var s=null,r=A.aj(a),q=A.aE(s,5*$.ax.L()/100,s),p=A.bq("Contact Us",s,B.bd,s),o=A.aE(s,2*$.ax.L()/100,s),n=t.p,m=A.dR(A.a([A.aE(s,s,2*$.ax.L()/100),A.nq(B.li,s,s),A.aE(s,s,2*$.ax.L()/100),A.bq("+91 XXX-XXX-XXXX",s,B.bd,s)],n),B.D,B.A,B.B),l=A.aE(s,2*$.ax.L()/100,s),k=A.dR(A.a([A.aE(s,s,2*$.ax.L()/100),A.nq(B.lg,s,s),A.aE(s,s,2*$.ax.L()/100),A.bq("bhushannikumbh2014@gmail.com",s,B.bd,s)],n),B.D,B.A,B.B),j=A.aE(s,2*$.ax.L()/100,s),i=A.dR(A.a([A.aE(s,s,2*$.ax.L()/100),A.nq(B.lh,s,s),A.aE(s,s,2*$.ax.L()/100),A.bq("Nashik, Maharashtra",s,B.bd,s)],n),B.D,B.A,B.B),h=A.aE(s,3*$.ax.L()/100,s),g=A.h3(!1,s,!0,A.bT(s,B.T6,B.o,s,s,new A.cd(s,s,s,A.ew(10),s,B.ls,B.a2),s,s,s,B.Eb,s,s,s),s,!0,s,s,s,s,s,s,s,s,s,new A.Wl(),s,s,s,s),f=A.aE(s,10*$.ax.L()/100,s),e=$.anc()
+I(a){var s=null,r=A.aj(a),q=A.aE(s,5*$.ax.L()/100,s),p=A.bq("Contact Us",s,B.bd,s),o=A.aE(s,2*$.ax.L()/100,s),n=t.p,m=A.dR(A.a([A.aE(s,s,2*$.ax.L()/100),A.nq(B.li,s,s),A.aE(s,s,2*$.ax.L()/100),A.bq("+91 7776020236",s,B.bd,s)],n),B.D,B.A,B.B),l=A.aE(s,2*$.ax.L()/100,s),k=A.dR(A.a([A.aE(s,s,2*$.ax.L()/100),A.nq(B.lg,s,s),A.aE(s,s,2*$.ax.L()/100),A.bq("innovatewith@bhushankoli.in",s,B.bd,s)],n),B.D,B.A,B.B),j=A.aE(s,2*$.ax.L()/100,s),i=A.dR(A.a([A.aE(s,s,2*$.ax.L()/100),A.nq(B.lh,s,s),A.aE(s,s,2*$.ax.L()/100),A.bq("Mumbai, Maharashtra",s,B.bd,s)],n),B.D,B.A,B.B),h=A.aE(s,3*$.ax.L()/100,s),g=A.h3(!1,s,!0,A.bT(s,B.T6,B.o,s,s,new A.cd(s,s,s,A.ew(10),s,B.ls,B.a2),s,s,s,B.Eb,s,s,s),s,!0,s,s,s,s,s,s,s,s,s,new A.Wl(),s,s,s,s),f=A.aE(s,10*$.ax.L()/100,s),e=$.anc()
 return A.cU(A.a([q,p,o,m,l,k,j,i,h,g,f,A.Lj(B.jc,new A.fa(e,A.a_(e).h("fa<1>")).gcz().dj(0,new A.Wm(r),t.OZ).cP(0),B.cK,50,0),A.aE(s,5*$.ax.L()/100,s),A.bT(s,s,B.o,A.a2(51,255,255,255),s,s,s,1,s,s,s,s,s)],n),B.D,B.du,B.B)}}
 A.Wl.prototype={
 $0(){return A.ht(A.dq(u.r,0,null))},
